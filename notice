@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>重要提示</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/semantic-ui/2.4.1/semantic.min.css">
+    
+  </head>
+  <body>
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div class="ui container">
+
+      <div class="ui grid">
+        <div class="column" style="height: 150px"></div>
+      </div>
+
+      <div class="ui grid">
+
+        <!-- <div class="four wide column"></div> -->
+
+        <div class="column">
+
+          <div class="ui floating huge message">
+            <!-- <i class="notched circle loading icon"></i> -->
+            <div class="content">
+              <div class="header" style="text-align: center;">重要提示</div>
+              <p style="text-indent: 2em;">汕头市2023年中考考生成绩及录取结果查询<br/>　　开放时间：<b>7月18日11点</b></p>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- <div class="four wide column"></div> -->
+
+      </div>
+
+    </div>
+
+  </body>
+</html>
