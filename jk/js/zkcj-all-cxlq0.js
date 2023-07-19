@@ -60,7 +60,7 @@ function globalqui(lih3,cls){
 	            +"</td><td class='val-code'><input type='text' class='zk_zkzh' id='addcode' placeholder='请输入验证码'  />"
 				+"<img class='mycode mid-valcode' id='randomImage' onclick='refreshAddcode()' style='display:none' />"
 				+"</td></tr>");
-	var pcha = $("<p class='chek'><input type='button' value='<a href="jk/fake.html" target="_self">查询</a>' class='chax grade-chx' /></p>");
+	var pcha = $("<p class='chek'><a href="jk/fake.html" target="_self">查询</a></p>");
 	$(table).append(tr1,tr2,tr3,tr4);
 //	$(table).append(tr1,tr3,tr4);
 	$(form).append(table,pcha);
